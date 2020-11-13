@@ -4,6 +4,11 @@ using System;
 using System.Linq;
 
 // 1.0 version
+/*
+ * Created by:
+ * Simon GripenCreutz
+ * 2020-11-13
+ */
 namespace Prague_Parking1._1
 {
     class Program

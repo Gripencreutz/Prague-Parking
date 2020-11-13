@@ -3,6 +3,11 @@ using System.Linq;
 using System.Text.RegularExpressions;
 
 // 1.1 version
+/*
+ * Created by:
+ * Simon GripenCreutz
+ * 2020-11-13
+ */
 namespace Prague_Parking1._1
 {
     class Program
